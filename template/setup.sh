@@ -1,4 +1,4 @@
-#!/bin/dash
+#!/bin/sh
 
 if [ -d template ]; then
 	cd template
